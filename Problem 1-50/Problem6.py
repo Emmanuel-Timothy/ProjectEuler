@@ -28,4 +28,3 @@ difference = square_sum_val - sum_squares_val
 
 # Print the result
 print(difference)
- 
