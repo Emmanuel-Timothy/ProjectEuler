@@ -1,2 +1,2 @@
 # ProjectEuler
-This is just me doing Project Euler
+This is just my documentation for doing Project Euler
