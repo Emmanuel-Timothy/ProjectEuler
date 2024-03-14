@@ -32,3 +32,4 @@ prime_number = sieve_of_eratosthenes(1000000)  # Increase limit as needed
 
 # Print the result
 print(prime_number)
+ 
